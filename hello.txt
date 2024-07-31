@@ -1,4 +1,3 @@
 Hello This is DevOps Lab
-we are performing experiment 2 that is on github comman
-ds
+we are performing experiment 2 that is on github commands
 
